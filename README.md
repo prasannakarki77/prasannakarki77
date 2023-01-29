@@ -4,8 +4,8 @@
 </h1>
 
 - 👋 I’m Prasanna Raj Karki.
-- 👀 I’m a software developer with an interest on web development.
-- 💞️ I’m aiming to become a fullstack developer.
+- 🧑‍💻 I’m a software developer with an interest on web development.
+- 🎯 I’m aiming to become a fullstack developer.
 - 📧 Email : prasanna.karki77@gmail.com
 
 ### :fire: My Stats :<br/>
@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannakarki77&&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasannakarki77&theme=dark&show_icons=true)<br/>
 
-[![Rahul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasannakarki77&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prasanna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasannakarki77&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
