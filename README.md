@@ -5,7 +5,7 @@
 
 - 👋 I’m Prasanna Raj Karki.
 - 🧑‍💻 I’m a software developer with an interest on web development.
-- 🎯 I’m aiming to become a fullstack developer.
+- 🎯 Always eager to learn new things.
 - 📧 Email : prasanna.karki77@gmail.com
 
 ### :fire: My Stats :<br/>
