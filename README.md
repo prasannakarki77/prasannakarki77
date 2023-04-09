@@ -4,7 +4,7 @@
 </h1>
 
 - 👋 I’m Prasanna Raj Karki.
-- 🧑‍💻 I’m a software developer with an interest on web development.
+- 🧑‍💻 I’m a software developer with an interest in web application development.
 - 🎯 Always eager to learn new things.
 - 📧 Email : prasanna.karki77@gmail.com
 
