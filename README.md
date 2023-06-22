@@ -12,6 +12,4 @@
 <img src="https://komarev.com/ghpvc/?username=prasannakarki77&style=flat-square&color=blue" alt=""/><br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prasannakarki77&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannakarki77&&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasannakarki77&theme=dark&show_icons=true)<br/>
 
-[![Prasanna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasannakarki77&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
