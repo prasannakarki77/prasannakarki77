@@ -10,6 +10,6 @@
 
 ### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=prasannakarki77&style=flat-square&color=blue" alt=""/><br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prasannakarki77&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannakarki77&&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prasannakarki77&theme=dark&background=000000)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannakarki77&bg_color=00000000&text_color=ffffffff)
 
