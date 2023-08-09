@@ -7,4 +7,3 @@
 - 🧑‍💻 I’m a software developer with an interest in web application development.
 - 🎯 Always eager to learn new things.
 - 📧 Email : prasanna.karki77@gmail.com
-<br/>
