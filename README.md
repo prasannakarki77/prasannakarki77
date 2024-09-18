@@ -8,6 +8,7 @@
 - 🎯 Always eager to learn new things.
 - 📧 Email : prasanna.karki77@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,next,tailwind,mui,vue,nodejs,go,rails,mongodb,postgres,graphql,git,docker,figma)](https://skillicons.dev)
   <!-- ./STAT -->
 <div align="center" >  
  <!-- <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=prasannakarki77&show_icons=true&count_private=true&hide_border=true&title_color=FA9400&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Prasanna Karki" /> --> 
